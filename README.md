@@ -4,7 +4,7 @@
 💻 Currently working at Error Technologies 
 🔧 Tech Stack: React.js, Redux Toolkit, Node.js, MongoDB, JavaScript, Tailwind CSS, Material UI.
 
---💞️ I’m looking to collaborate on open-source projects related to web development or backend systems.
+ I’m looking to collaborate on open-source projects related to web development or backend systems.
 
 🎯 I enjoy solving problems, optimizing web performance, and building user-friendly experiences. Always eager to explore new technologies and enhance my skills in full-stack development.
 
