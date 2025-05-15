@@ -2,7 +2,7 @@
 🚀 Front-End Developer | Passionate about building interactive and scalable web applications
 
 💻 Currently working at Error Technologies 
-🔧 Tech Stack: React.js, Redux Toolkit, Node.js, MongoDB, JavaScript, Tailwind CSS, Material UI.
+🔧 Tech Stack: React.js, Redux Toolkit, Node.js, MongoDB, JavaScript, Tailwind CSS.
 
  I’m looking to collaborate on open-source projects related to web development or backend systems.
 
